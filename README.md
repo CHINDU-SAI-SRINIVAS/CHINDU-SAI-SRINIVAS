@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm CHINDU SAI SRINIVAS</h1>
 <h3 align="center">A passionate mid-level developer.</h3>
-
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU"/>
 - 🌱 I’m currently learning **REACT JS, MAJENTO**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, PHP, MYSQL, BOOTSTRAP**
